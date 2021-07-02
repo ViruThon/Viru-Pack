@@ -1,13 +1,13 @@
 {
-  "name": "telethon-Arabs",
-  "description": "Welcome to Arab Telethon Source Arabic Language Modifier Follow our official channel @ IQTHON",
-  "logo": "https://telegra.ph/file/686c46e34b1a5fa4ef467.jpg",
+  "name": "ViruThon",
+  "description": "Welcome Viruthon @ViruThon",
+  "logo": "https://telegra.ph/file/b25a5c240cd68ba6dc68b.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/telethon-Arab/telethon-Ar-pack/",
+  "repository": "https://github.com/ViruThon/Viru-pack/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -97,7 +97,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رابط السورس - لاتوصله",
-      "value": "Telethon-Ar",
+      "value": "Viru-Ar",
       "required": false
     }
   },
